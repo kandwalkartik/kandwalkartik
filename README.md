@@ -7,7 +7,7 @@ I'm a Computer Science Engineering student at VIT Vellore interested in **system
 | | Project | What it demonstrates |
 | :-- | :-- | :-- |
 | **01** | **[GitOracle](https://github.com/kandwalkartik/gitoracle)** | An AI-powered GitHub assistant built with agent workflows and a custom MCP server for repository analysis. |
-| **02** | **[Smart Water Filter System](https://github.com/kandwalkartik/Smart-Water-Filter-System)** | An ESP8266 prototype that uses TDS readings to select RO or UF filtration, with results from a 100-hour lab trial. |
+| **02** | **[Smart Water Filter System](https://github.com/kandwalkartik/Smart-Water-Filter-System)** | A work-in-progress ESP8266 lab prototype that uses TDS readings to select RO or UF filtration, with results from a 100-hour trial. |
 | **03** | **[SecuExam](https://github.com/kandwalkartik/SecuExam)** | An exam-paper distribution app with role-based access, audit logs, time-based controls, and automated tests. |
 | **04** | **[OpinionMap](https://github.com/kandwalkartik/OpinionMap)** | A multi-agent market intelligence app with a React dashboard and FastAPI backend. |
 
