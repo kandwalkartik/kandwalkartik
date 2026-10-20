@@ -42,6 +42,17 @@ Technologies used across my public projects:
 | [Drowning Detection and Rescue System](https://github.com/kandwalkartik/Drowning-Detection-and-Rescue-System) | A work-in-progress wearable IoT prototype for detecting possible drowning-risk events. |
 | [Ticket Booking System](https://github.com/kandwalkartik/Ticket_Unthinkable) | A full-stack booking system exploring concurrent seat holds and real-time updates. |
 
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="180" alt="Kartik's GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=440" />
+  <img height="180" alt="Most used languages in Kartik's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=320" />
+  <br />
+  <img width="530" alt="Kartik's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
+</div>
+
+<sub>These cards update from public GitHub activity. Language percentages describe repository code, not skill level.</sub>
+
 ## Explore
 
 Browse [my repositories](https://github.com/kandwalkartik?tab=repositories) to see the code, documentation, and current status of each project.
