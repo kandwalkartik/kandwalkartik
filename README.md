@@ -1,10 +1,12 @@
-# Hi, I'm Kartik 👋
+<h1 align="center">Hi, I'm Kartik 👋</h1>
 
-I build practical software across **AI tools, full-stack applications, and connected devices**. My projects range from GitHub repository analysis and market intelligence to sensor-based safety and water systems.
+<p align="center"><strong>AI tools · Full-stack apps · Connected devices</strong></p>
+
+I build practical software, from GitHub analysis and market intelligence tools to sensor-based safety and water systems. The projects below show what I've built and where each one stands.
 
 ## 💻 Tech Stack
 
-Technologies used across my public projects:
+Technologies represented in my public repositories:
 
 **Languages and web**
 
@@ -32,30 +34,36 @@ Technologies used across my public projects:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-## Featured projects
+## 🚀 Featured projects
 
-| Project | What it explores |
-| --- | --- |
-| [GitOracle](https://github.com/kandwalkartik/gitoracle) | Natural-language exploration of public GitHub repositories using an MCP server and agent workflows. |
-| [OpinionMap](https://github.com/kandwalkartik/OpinionMap) | Multi-agent market intelligence with a React dashboard and FastAPI backend. |
-| [Smart Water Filter System](https://github.com/kandwalkartik/Smart-Water-Filter-System) | A laboratory prototype that routes water through RO or UF filtration based on TDS readings. |
-| [Drowning Detection and Rescue System](https://github.com/kandwalkartik/Drowning-Detection-and-Rescue-System) | A work-in-progress wearable IoT prototype for detecting possible drowning-risk events. |
-| [Ticket Booking System](https://github.com/kandwalkartik/Ticket_Unthinkable) | A full-stack booking system exploring concurrent seat holds and real-time updates. |
+- **[GitOracle](https://github.com/kandwalkartik/gitoracle)** — Explore public GitHub repositories in natural language with an MCP server and agent workflows.
+- **[OpinionMap](https://github.com/kandwalkartik/OpinionMap)** — Multi-agent market intelligence with a React dashboard and FastAPI backend.
+- **[Smart Water Filter System](https://github.com/kandwalkartik/Smart-Water-Filter-System)** — A laboratory prototype that routes water through RO or UF filtration based on TDS readings.
+- **[Drowning Detection and Rescue System](https://github.com/kandwalkartik/Drowning-Detection-and-Rescue-System)** — A work-in-progress wearable IoT prototype for detecting possible drowning-risk events.
+- **[Ticket Booking System](https://github.com/kandwalkartik/Ticket_Unthinkable)** — A full-stack booking system exploring concurrent seat holds and real-time updates.
 
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img width="495" alt="Kartik's GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=495" />
+    <img width="495" alt="Kartik's GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
+  </picture>
   <br />
-  <img width="495" alt="Kartik's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=default&amp;hide_border=true" />
+    <img width="495" alt="Kartik's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
+  </picture>
   <br />
-  <img width="495" alt="Most used languages in Kartik's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true&amp;card_width=495" />
+    <img width="495" alt="Most used languages in Kartik's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
+  </picture>
 </div>
 
 <sub>These cards update from public GitHub activity. Language percentages describe repository code, not skill level.</sub>
 
-## Explore
-
-Browse [my repositories](https://github.com/kandwalkartik?tab=repositories) to see the code, documentation, and current status of each project.
-
-<sub>Built from projects published on this account. Project links lead to their repositories for implementation details and limitations.</sub>
+<p align="center"><a href="https://github.com/kandwalkartik?tab=repositories">Explore all repositories →</a></p>
