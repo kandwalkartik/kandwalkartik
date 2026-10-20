@@ -45,10 +45,11 @@ Technologies used across my public projects:
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="180" alt="Kartik's GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=440" />
-  <img height="180" alt="Most used languages in Kartik's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=320" />
+  <img width="495" alt="Kartik's GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
   <br />
-  <img width="530" alt="Kartik's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
+  <img width="495" alt="Kartik's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
+  <br />
+  <img width="495" alt="Most used languages in Kartik's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
 </div>
 
 <sub>These cards update from public GitHub activity. Language percentages describe repository code, not skill level.</sub>
