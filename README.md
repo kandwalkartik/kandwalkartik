@@ -1,69 +1,40 @@
-<h1 align="center">Hi, I'm Kartik 👋</h1>
+# Hi, I'm Kartik Kandwal 👋
 
-<p align="center"><strong>AI tools · Full-stack apps · Connected devices</strong></p>
+I'm a Computer Science Engineering student at VIT Vellore interested in **systems software, AI-powered applications, and IoT**. I enjoy understanding how things work under the hood and building practical solutions, from backend tools to sensor-driven systems.
 
-I build practical software, from GitHub analysis and market intelligence tools to sensor-based safety and water systems. The projects below show what I've built and where each one stands.
+## Featured projects
 
-## 💻 Tech Stack
+| | Project | What it demonstrates |
+| :-- | :-- | :-- |
+| **01** | **[GitOracle](https://github.com/kandwalkartik/gitoracle)** | An AI-powered GitHub assistant built with agent workflows and a custom MCP server for repository analysis. |
+| **02** | **[Smart Water Filter System](https://github.com/kandwalkartik/Smart-Water-Filter-System)** | An ESP8266 prototype that uses TDS readings to select RO or UF filtration, with results from a 100-hour lab trial. |
+| **03** | **[SecuExam](https://github.com/kandwalkartik/SecuExam)** | An exam-paper distribution app with role-based access, audit logs, time-based controls, and automated tests. |
+| **04** | **[OpinionMap](https://github.com/kandwalkartik/OpinionMap)** | A multi-agent market intelligence app with a React dashboard and FastAPI backend. |
 
-Technologies represented in my public repositories:
+**Also exploring:** [Drowning Detection and Rescue System](https://github.com/kandwalkartik/Drowning-Detection-and-Rescue-System), a **work-in-progress** ESP32 wearable prototype; and [Ticket Booking System](https://github.com/kandwalkartik/Ticket_Unthinkable), a full-stack project focused on concurrent seat holds and real-time updates.
 
-**Languages and web**
+## Technologies used in my projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | Python, C++, TypeScript, JavaScript, SQL |
+| **Backend & AI** | FastAPI, Flask, LangGraph, MCP |
+| **Web & data** | React, PostgreSQL, Docker |
+| **Embedded & IoT** | ESP8266, ESP32, Firebase |
+| **Workflow** | Git, GitHub |
 
-**Apps and AI**
+## What I'm focused on
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+Strengthening my foundations in data structures, operating systems, computer architecture, and software engineering while building and documenting practical projects.
 
-**Data, deployment, and devices**
+## GitHub at a glance
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true" />
+  <img height="170" alt="Languages used across Kartik's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true" />
+</picture>
 
-## 🚀 Featured projects
+<sub>Language percentages describe code in public repositories, not skill level.</sub>
 
-- **[GitOracle](https://github.com/kandwalkartik/gitoracle)** — Explore public GitHub repositories in natural language with an MCP server and agent workflows.
-- **[OpinionMap](https://github.com/kandwalkartik/OpinionMap)** — Multi-agent market intelligence with a React dashboard and FastAPI backend.
-- **[Smart Water Filter System](https://github.com/kandwalkartik/Smart-Water-Filter-System)** — A laboratory prototype that routes water through RO or UF filtration based on TDS readings.
-- **[Drowning Detection and Rescue System](https://github.com/kandwalkartik/Drowning-Detection-and-Rescue-System)** — A work-in-progress wearable IoT prototype for detecting possible drowning-risk events.
-- **[Ticket Booking System](https://github.com/kandwalkartik/Ticket_Unthinkable)** — A full-stack booking system exploring concurrent seat holds and real-time updates.
-
-## 📊 GitHub at a glance
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=495" />
-    <img width="495" alt="Kartik's GitHub activity stats" src="https://github-readme-stats.vercel.app/api?username=kandwalkartik&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=default&amp;hide_border=true" />
-    <img width="495" alt="Kartik's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=kandwalkartik&amp;theme=dark&amp;hide_border=true" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true&amp;card_width=495" />
-    <img width="495" alt="Most used languages in Kartik's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;card_width=495" />
-  </picture>
-</div>
-
-<sub>These cards update from public GitHub activity. Language percentages describe repository code, not skill level.</sub>
-
-<p align="center"><a href="https://github.com/kandwalkartik?tab=repositories">Explore all repositories →</a></p>
+[Explore all repositories →](https://github.com/kandwalkartik?tab=repositories)
