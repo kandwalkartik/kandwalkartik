@@ -27,14 +27,14 @@ I'm a Computer Science Engineering student at VIT Vellore interested in **system
 
 Strengthening my foundations in data structures, operating systems, computer architecture, and software engineering while building and documenting practical projects.
 
-## GitHub at a glance
+## Repository languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true" />
-  <img height="170" alt="Languages used across Kartik's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;cache_seconds=21600" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true&amp;cache_seconds=21600" />
+  <img height="170" alt="Cached language breakdown of Kartik's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandwalkartik&amp;layout=compact&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;cache_seconds=21600" />
 </picture>
 
-<sub>Language percentages describe code in public repositories, not skill level.</sub>
+<sub>This third-party card updates periodically and may lag behind recent changes. Percentages reflect code volume in public, non-forked repositories, not skill level. For current activity, see GitHub's contribution graph below.</sub>
 
 [Explore all repositories →](https://github.com/kandwalkartik?tab=repositories)
